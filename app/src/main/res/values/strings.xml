@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Life Cycle</string>
+    <string name="title">Coconut Palace</string>
+    <string name="location">Location: Roxas Blvd Cultural Center complex, Manila, Luzon Philippines</string>
+    <string name="dist">Distance: 4.8 km from University of Santo Tomas</string>
+    <string name="btnBack">BACK</string>
+    <string name="btnNext">NEXT</string>
+</resources>
